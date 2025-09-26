@@ -1,4 +1,4 @@
-# Salary Analysis for DataAnalyst Positions
+# Salary Analysis for Data Analyst Positions
 This project analyzes salary data for Data Analyst positions using MySQL. The analysis covers data cleaning, descriptive exploration of job titles and salaries, as well as geographic, experience-based, and temporal insights to identify salary trends across different career levels.
 
 Tools:
@@ -76,6 +76,6 @@ mid-level memberikan informasi berharga untuk kandidat yang mempertimbangkan pek
 
 - Temporal Salary Trends: Tahun-tahun tertentu menunjukkan kenaikan gaji signifikan dari mid-level ke senior-level, menunjukkan peluang karir yang menguntungkan bagi mereka yang mencapai seniority pada periode tersebut.
 
-# Kesimpulan
+# Conclusion
 Melalui analisis ini, bisa didapatkan gambaran komprehensif tentang gaji untuk posisi Data Analyst berdasarkan pengalaman, jenis pekerjaan, lokasi, dan tren waktu. Insight ini dapat membantu dalam perencanaan karir, negosiasi gaji, dan pemahaman pasar kerja global.
 

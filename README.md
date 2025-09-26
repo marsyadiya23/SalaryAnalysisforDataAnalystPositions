@@ -62,5 +62,20 @@ Tools:
 
 
 # Insight
+- Data Completeness: Dataset tidak memiliki nilai NULL pada kolom-kolom penting, memastikan data siap untuk analisis lebih lanjut tanpa perlu pembersihan data tambahan.
 
+- Job Title Diversity: Terdapat berbagai job title dalam dataset, memberikan gambaran luas mengenai posisi yang tersedia di industri terkait data science dan analysis.
+
+- Average Salary Analysis:
+   1. Rata-rata gaji untuk posisi "Data Analyst" memberikan benchmark umum untuk kompensasi di posisi ini.
+   2. Pengaruh level pengalaman terhadap gaji menunjukkan bahwa pengalaman lebih tinggi biasanya diikuti dengan gaji yang lebih tinggi.
+   3. Kombinasi pengalaman dan jenis pekerjaan menunjukkan variasi dalam struktur gaji berdasarkan peran dan status kerja.
+
+- Geographical Salary Insights: Negara-negara dengan rata-rata gaji menarik untuk Data Analyst full-time di level entry dan
+mid-level memberikan informasi berharga untuk kandidat yang mempertimbangkan pekerjaan di luar negeri.
+
+- Temporal Salary Trends: Tahun-tahun tertentu menunjukkan kenaikan gaji signifikan dari mid-level ke senior-level, menunjukkan peluang karir yang menguntungkan bagi mereka yang mencapai seniority pada periode tersebut.
+
+# Kesimpulan
+Melalui analisis ini, bisa didapatkan gambaran komprehensif tentang gaji untuk posisi Data Analyst berdasarkan pengalaman, jenis pekerjaan, lokasi, dan tren waktu. Insight ini dapat membantu dalam perencanaan karir, negosiasi gaji, dan pemahaman pasar kerja global.
 

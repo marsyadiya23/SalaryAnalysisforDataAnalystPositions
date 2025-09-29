@@ -5,7 +5,7 @@ Tools:
 1. MySQLWorkbench
 2. Tableu
    
-# Case Analysis
+# Case Study
 1. Apakah ada data yang NULL?
    <p align="center">
      <img src="https://github.com/user-attachments/assets/804e6f19-945a-42a3-abac-b9cc6f5473a0">
